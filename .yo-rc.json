@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "myJhipsterApp",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "memcached",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODI5NDJiOTFmYzQ2ZTdhNTcyYzEwMWEwYzZjMWE0MDUxNDFjODRjMTAzNGY3M2M5MTA0MDIxNWRhZTU1NjIyY2EyMTc1MDUyOTMxYWMxODZkMDUyNmZmYmMxNTRiYjU4OTk3ZWM1YTRmMGVkYWQ2M2VhMzU5Nzc5ZDllOGY3ZWI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595097067813,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
